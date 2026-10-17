@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["HC67GN5D2X.com.yvesf.stockstart"],
+        "components": [{ "/": "/s/*", "comment": "Shared stocks from StockStart" }]
+      }
+    ]
+  }
+}
