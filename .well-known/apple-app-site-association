@@ -2,8 +2,30 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["HC67GN5D2X.com.yvesf.stockstart"],
-        "components": [{ "/": "/s/*", "comment": "Shared stocks from StockStart" }]
+        "appIDs": [
+          "HC67GN5D2X.com.yvesf.stockstart"
+        ],
+        "components": [
+          {
+            "/": "/s/*",
+            "comment": "Shared stocks from StockStart"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "HC67GN5D2X.com.yvesf.SnakeGame"
+        ],
+        "components": [
+          {
+            "/": "/snake-arena-pages/d/*",
+            "comment": "Snake Arena Beat-me challenge links"
+          },
+          {
+            "/": "/snake-arena-pages/d",
+            "comment": "Snake Arena Beat-me challenge links without trailing slash"
+          }
+        ]
       }
     ]
   }
