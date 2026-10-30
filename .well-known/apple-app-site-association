@@ -26,7 +26,23 @@
             "comment": "Snake Arena Beat-me challenge links without trailing slash"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "HC67GN5D2X.com.yves.apresempire"
+        ],
+        "components": [
+          {
+            "/": "/apres-empire-site/r/*",
+            "comment": "Après Empire: a shared resort opens the game there"
+          }
+        ]
       }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "HC67GN5D2X.com.yves.apresempire.Clip"
     ]
   }
 }
